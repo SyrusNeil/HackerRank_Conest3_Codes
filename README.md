@@ -1,1 +1,1 @@
-Codes of HackerRanck contest 3 from SRM IST
+Codes of HackerRank contest 3 from SRM IST
